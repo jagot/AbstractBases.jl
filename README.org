@@ -1,0 +1,8 @@
+#+TITLE: AbstractBases.jl
+#+AUTHOR: Stefanos Carlström
+#+EMAIL: stefanos.carlstrom@gmail.com
+
+[[https://travis-ci.org/jagot/AbstractBases.jl][https://travis-ci.org/jagot/AbstractBases.jl.svg?branch=master]]
+[[https://coveralls.io/github/jagot/AbstractBases.jl?branch=master][https://coveralls.io/repos/github/jagot/AbstractBases.jl/badge.svg?branch=master]]
+[[http://codecov.io/gh/jagot/AbstractBases.jl][http://codecov.io/gh/jagot/AbstractBases.jl/branch/master/graph/badge.svg]]
+
