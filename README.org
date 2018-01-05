@@ -6,3 +6,8 @@
 [[https://coveralls.io/github/jagot/AbstractBases.jl?branch=master][https://coveralls.io/repos/github/jagot/AbstractBases.jl/badge.svg?branch=master]]
 [[http://codecov.io/gh/jagot/AbstractBases.jl][http://codecov.io/gh/jagot/AbstractBases.jl/branch/master/graph/badge.svg]]
 
+Interface specification for miscellaneous basis function expansions
+used in pseudospectral methods for the solution of PDEs, such as
+- [[https://en.wikipedia.org/wiki/B-spline][B-splines]]
+- [[https://github.com/jagot/FEDVR.jl][FEDVR]]
+- [[https://github.com/JuliaDiffEq/DiffEqOperators.jl][Finite differences]]
